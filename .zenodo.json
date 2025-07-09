@@ -1,0 +1,22 @@
+{
+      "description": "Code for the analysis of the CAM6.3 PPE on the topic of hemispheric albedo symmetry. Authors listed alphabetically. Authorship statement following&nbsp;<a href=\"https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement\">CRediT (Contributor Roles Taxonomy)</a></p>\n\n<ul>\n\t<li>Conceptualization: Trude Eidhammer.</li>\n\t<li>Data Curation: Trude Eidhammer.</li>\n\t<li>Funding Acquisition: Trude Eidhammer and Daniel McCoy.</li>\n\t<li>Methodology: Trude Eidhammer, Aiden Jönsson, and Daniel McCoy.</li>\n\t<li>Project Administration: Trude Eidhammer.</li>\n\t<li>Resources: Trude Eidhammer.</li>\n\t<li>Software: Aiden Jönsson and Daniel McCoy.</li>\n\t<li>Visualization: Aiden Jönsson.</li>\n</ul>", 
+    "license": "GPL-3.0", 
+    "title": "CAM6.3 PPE albedo symmetry study codes", 
+    "creators": [
+        {
+            "orcid": "0000-0003-2281-9351", 
+            "affiliation": "NSF National Center for Atmospheric Research", 
+            "name": "Trude Eidhammer"
+        }, 
+        {
+            "orcid": "0000-0002-5830-7684", 
+            "affiliation": "Stockholm University", 
+            "name": "Aiden Jönsson"
+        }, 
+        {
+            "orcid": "0000-0003-1148-6475", 
+            "affiliation": "University of Wyoming", 
+            "name": "Daniel McCoy"
+        }
+    ]
+}
